@@ -5,21 +5,18 @@ Here are some ideas to get you started:
 
 (Currently updating Portfolio site)
 
-<details>
-<summary>Some of my Skills & Experience</summary>
+
+Some of my Skills & Experience
 
 [](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
 
-...
-</details>
+
 
 <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=FaisalY12&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=FaisalY12&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 
 <!--
