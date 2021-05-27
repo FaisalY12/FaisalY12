@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=FaisalY12&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+<a href="https://github.com/braydoncoyer/ng-limeade">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=FaisalY12&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 
 <!--
