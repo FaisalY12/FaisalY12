@@ -18,9 +18,7 @@ Some of my Skills & Experience
 
 
 
-<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=FaisalY12&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-
+<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalY12">
 
 <!--
 **FaisalY12/FaisalY12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
