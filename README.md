@@ -5,7 +5,7 @@ I’m Faisal, a chemistry graduaute training as a full-stack engineer
 (Currently updating Portfolio site)
 
 
-## Some of my Skills & Experience
+#### Some of my Skills & Experience
 
 [](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
