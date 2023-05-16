@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Faisal, a chemistry graduaute training as a full-stack engineer
+I’m Faisal, a chemistry graduaute with experience in full stack web and mobile development.
 
 (Currently updating Portfolio site)
 
