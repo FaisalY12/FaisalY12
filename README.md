@@ -4,11 +4,11 @@
 
  &nbsp;&nbsp;&nbsp;&nbsp;
   
-I’m Faisal, a chemistry graduaute with experience in full stack web and mobile development.
+I’m Faisal, a chemistry graduaute with technical experience in full stack web and mobile development.
 
 
   
-#### Some of my Skills & Experience
+#### Some of my Technical Skills & Experience
 
 
 
